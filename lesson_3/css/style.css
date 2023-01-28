@@ -1,0 +1,16 @@
+@import url("reset.css");
+.h1{
+	color: aqua;
+}
+.p{
+	color: green;
+}
+.h4{
+	color: blue;
+}
+.aln,.back{
+	color: aquamarine;
+}
+[class*="_container"]{
+	color: red;
+}
