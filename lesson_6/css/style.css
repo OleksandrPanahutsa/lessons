@@ -71,5 +71,5 @@ h2 {
 .image1 {
 	border: 10px solid rgb(117, 93, 93);
 	font-size: 0;
-	max-width: 100%;
+	width: 100%;
 }
