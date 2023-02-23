@@ -1,0 +1,84 @@
+@import url(reset.css);
+
+body {
+	background: radial-gradient(
+		circle,
+		rgba(155, 142, 207, 1) 33%,
+		rgba(210, 206, 185, 1) 79%,
+		rgba(222, 51, 83, 0.9417016806722689) 100%
+	);
+	max-width: 1270px;
+	padding-top: 40px;
+	margin: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+main {
+	font-family: "Inter", sans-serif;
+	font-size: 20px;
+	line-height: 1.25;
+	color: #212b36;
+	font-weight: 700;
+}
+p {
+	text-align: center;
+}
+
+span {
+	color: green;
+}
+
+.icons {
+	padding-bottom: 100px;
+	background: url(../img/icons/app.svg) 5% 50% no-repeat, url(../img/icons/award.svg) 10% 50% no-repeat,
+		url(../img/icons/briefcase.svg) 15% 50% no-repeat, url(../img/icons/building.svg) 20% 50% no-repeat,
+		url(../img/icons/dollar-sign.svg) 25% 50% no-repeat, url(../img/icons/google.svg) 30% 50% no-repeat;
+}
+
+.text_2 {
+	margin-bottom: 50px;
+}
+.img_1 {
+	margin-bottom: 60px;
+}
+
+.image1,
+.image2,
+.image3 {
+	margin-right: 30px;
+}
+.elements {
+	padding-bottom: 600px;
+	background-image: url(../img/4574_14_11zon.webp);
+	background-repeat: no-repeat;
+}
+.text_3 p {
+	text-align: left;
+	color: rgb(14, 14, 209);
+	margin-bottom: 30px;
+}
+
+.img_2 {
+	padding-top: 60px;
+	font-size: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.img_3 {
+	display: inline-block;
+	text-align: center;
+	font-size: 0;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.image11,
+.image12,
+.image13,
+.image14 {
+	border-radius: 50px;
+	margin-right: 100px;
+	margin-bottom: 30px;
+}
